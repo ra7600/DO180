@@ -1,3 +1,8 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Hello, World! <br>";
+print "<br>";
+print "php version is " . PHP_VERSION . "<br>";
+print "<br>";
+print '<p style="font-size: 20px;">From Web2</p>';
+
 ?>
