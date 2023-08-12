@@ -1,6 +1,8 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "<br>";
-
-print "From WebServer1 <br>";
+print "Hello, World! <br>";
+print "<br>";
+print "php version is " . PHP_VERSION . "<br>";
+print "<br>";
+print '<p style="font-size: 20px;">From Web1</p>';
 
 ?>
