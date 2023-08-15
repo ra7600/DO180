@@ -1,6 +1,6 @@
 <?php
+date_default_timezone_set(''America/New_York'');
 print '<p style="font-size: 20px;">Hello World</p>';
-# print "Hello, World! <br>";
 print "<br>";
 $timestamp = time();
 $date_time = date("d-m-Y (D) H:i:s", $timestamp);
